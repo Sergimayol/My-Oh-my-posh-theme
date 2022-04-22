@@ -44,7 +44,7 @@
                     "foreground": "#011627",
                     "powerline_symbol": "\ue0b0",
                     "properties": {
-                        "branch_icon": "\ue5fb ",
+                        "branch_icon": "\ue725 ",
                         "fetch_status": true,
                         "fetch_upstream_icon": true
                     },
@@ -91,7 +91,7 @@
                     "type": "java"
                 },
                 {
-                    "background": "#40c4ff",
+                    "background": "#0077c2",
                     "foreground": "#ffffff",
                     "invert_powerline": true,
                     "leading_diamond": " \ue0b6",
